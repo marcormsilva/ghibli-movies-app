@@ -1,4 +1,4 @@
-<img width="1907" height="847" alt="image" src="https://github.com/user-attachments/assets/6ea7d6fa-5995-44d9-b22b-8ccb27241dce" /># Ghibli Movies App
+# Ghibli Movies App
 
 Aplicação web que consome a [API pública do Studio Ghibli](https://ghibliapi.vercel.app/) para listar e exibir detalhes dos filmes do estúdio.
 
