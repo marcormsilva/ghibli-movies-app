@@ -10,6 +10,7 @@ export const Home = () => {
 
     const { films, loading, error } = context;
 
+
     return (
         <>
 
